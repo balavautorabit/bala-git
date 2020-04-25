@@ -1,9 +1,12 @@
-<apex:page standardStylesheets="false" showHeader="false" sidebar="false" applyHtmlTag="false" applyBodyTag="false" docType="html-5.0">
+<!-- VisualforcePage for Color Test -->
+<!-- Created by Baluvarma-->
+ <apex:page standardStylesheets="false" showHeader="false" sidebar="false" applyHtmlTag="false" applyBodyTag="false" docType="html-5.0">
 <html xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" lang="en">
+
     <head>
         <apex:slds />
         <title>Color Test</title>
-        <!-- Move the styles into a CSS file -->
+               <!-- Move the styles into a CSS file -->
         <style>
             body {
                 margin: 5px;
