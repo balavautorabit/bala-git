@@ -1,7 +1,7 @@
 {
   "packageDirectories" : [ {
     "path" : "force-app",
-    "default" : true,
+    "default" : false,
     "package" : "vijay123",
     "versionName" : "ver 0.1",
     "versionNumber" : "0.1.0.NEXT",
@@ -9,11 +9,19 @@
       "package" : "Vijay-SFDXTestModule",
       "versionNumber" : "1.0.0.0"
     } ]
+  }, {
+    "path" : "vijay-123",
+    "default" : true,
+    "package" : "vijay-123",
+    "versionName" : "vijay-123",
+    "versionNumber" : "1.0.0.0"
   } ],
   "namespace" : "",
   "sfdcLoginUrl" : "https://login.salesforce.com",
   "sourceApiVersion" : "48.0",
   "packageAliases" : {
-    "vijay123" : "0Ho0K000000KylbSAC"
+    "vijay123" : "0Ho0K000000KylbSAC",
+    "vijay-123" : "0Ho0K000000KylgSAC",
+    "vijay-123@1.0.0.0" : "04t0K000001RtbhQAC"
   }
 }
